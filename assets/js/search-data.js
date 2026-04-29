@@ -446,6 +446,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-dg-tau-protostellar-jet-spectroscopy",
+          title: 'DG Tau Protostellar Jet Spectroscopy',
+          description: "Summer research project analysing ESO ERIS/VLT IFU spectroscopic data of protostellar jets from the T Tauri star DG Tau.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/dg-tau-eris-spectroscopy/";
             },},{id: "projects-galaxy-morphology-classification-with-cnns",
           title: 'Galaxy Morphology Classification with CNNs',
           description: "Final-year project applying convolutional neural networks to galaxy morphology classification using SDSS, Galaxy Zoo 2, and small ground-based telescope data.",
