@@ -446,6 +446,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-galaxy-morphology-classification-with-cnns",
+          title: 'Galaxy Morphology Classification with CNNs',
+          description: "Final-year project applying convolutional neural networks to galaxy morphology classification using SDSS, Galaxy Zoo 2, and small ground-based telescope data.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/galaxy-morphology-cnn/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
