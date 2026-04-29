@@ -4,7 +4,7 @@ title: "Galaxy Morphology Classification with CNNs"
 description: "Final-year project applying convolutional neural networks to galaxy morphology classification using SDSS, Galaxy Zoo 2, and small ground-based telescope data."
 img:
 importance: 1
-category: "research machine-learning astronomy"
+category: work
 related_publications: false
 ---
 
