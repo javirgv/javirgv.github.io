@@ -401,17 +401,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
-            },},{id: "projects-dg-tau-protostellar-jet-spectroscopy",
+          section: "News",},{id: "projects-dg-tau-protostellar-jet-spectroscopy",
           title: 'DG Tau Protostellar Jet Spectroscopy',
           description: "Summer research project analysing ESO ERIS/VLT IFU spectroscopic data of protostellar jets from the T Tauri star DG Tau.",
           section: "Projects",handler: () => {
