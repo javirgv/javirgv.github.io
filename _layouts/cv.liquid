@@ -172,6 +172,12 @@ layout: default
               {% elsif section_title == 'Certificates' %}
                 {% assign entries = section_entries %}
                 {% include cv/certificates.liquid %}
+              {% elsif section_title == 'Research' or section_title == 'Research Experience' or section_title == 'Teaching and Leadership' or section_title == 'Teaching&Leadership' %}
+                {% assign entries = section_entries %}
+                {% include cv/experience.liquid %}
+              {% elsif section_title == 'Events' or section_title == 'Competitions and Events' %}
+                {% assign entries = section_entries %}
+                {% include cv/projects.liquid %}
               {% elsif section_title == 'Projects' or section_title == 'Open Source Projects' %}
                 {% assign entries = section_entries %}
                 {% include cv/projects.liquid %}
