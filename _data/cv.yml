@@ -1,189 +1,247 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Javier Roca García-Valiño
+  label: Final-year Physics with Astronomy student | Scientific Computing & ML
+  email: javi5rgv@gmail.com
+  location: Dublin, Ireland
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: Final-year BSc Physics with Astronomy & Space Science student at University College Dublin, with a structured elective in Programming. Interested in machine learning, scientific computing, astronomical data analysis, and software-oriented research.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: javirgv
     - network: LinkedIn
-      username: example
+      username: javierrocagarcia-valino
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street:
+    city: Dublin
+    region:
+    postalCode:
+    countryCode: IE
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: University College Dublin
+        location: Dublin, Ireland
+        url: https://www.ucd.ie/
+        area: Physics with Astronomy & Space Science
+        studyType: BSc
+        start_date: 2022-09
+        end_date: 2026-05
+        score: Prospective First Class Honours
+        courses: "Structured Elective in Programming"
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Final Year Project: Galaxy morphological classification on small ground-based telescope data using machine learning."
+          - "Relevant computing modules: Maths of Machine Learning, Data Structures & Algorithms, Computational Science, Computation for Scientists, Databases and Information Systems, Introduction to Programming I & II."
+          - "Relevant astronomy and physics modules: Stellar Astrophysics & Astronomical Techniques, Galaxies, Observational Cosmology & the Interstellar Medium, Theoretical Astrophysics, Physics with Astronomy and Space Science Laboratory, Astronomy Field Trip."
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+    Research Experience:
+      - company: University College Dublin
+        position: Final Year Project — Galaxy Morphological Classification with Neural Networks
+        location: Dublin, Ireland
+        start_date: 2025
+        end_date: present
+        summary: Final-year research project combining astronomical image data, supervised machine learning, and scientific Python workflows.
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Developing supervised machine learning methods to classify galaxy morphologies from small ground-based telescope imaging data."
+          - "Training and evaluating convolutional neural networks using SDSS and Galaxy Zoo 2 data."
+          - "Testing model transfer to smaller ground-based telescope observations, including Calar Alto-style imaging data."
+          - "Applying data preprocessing, feature extraction, model evaluation, confidence analysis, and reproducible project organisation."
+          - "Supervisor: Dr Antonio Martin-Carrillo."
 
-    Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: University College Dublin / Calar Alto Observatory
+        position: Observational Campaign — GRB 260310A / AT2026fgk
+        location: Calar Alto Observatory, Spain
+        start_date: 2026-03
+        end_date: 2026-03
+        summary: Target-of-opportunity optical follow-up observations of a gamma-ray burst counterpart candidate using the CAHA 1.23m telescope.
         highlights:
-          - Relativity
-          - Description 2.
+          - "Contributed to optical observations of GRB 260310A / AT2026fgk using the CAHA 1.23m telescope."
+          - "Participated in data acquisition and preliminary analysis during a rapid-response observing campaign."
+          - "Contributed to results reported in NASA GCN Circular 43979."
+          - "Gained experience in CCD telescope operations, transient follow-up, and observational astronomy workflows."
+          - "Supervisor: Dr Antonio Martin-Carrillo."
+          - "Related link: https://gcn.nasa.gov/circulars/43979"
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: UCD Star Formation Research Group
+        position: Summer Research Student — Protostellar Jets of DG Tau
+        location: Dublin, Ireland
+        start_date: 2025-05
+        end_date: 2025-07
+        summary: Summer research project analysing ESO ERIS/VLT integral-field spectroscopic data of protostellar jets from the T Tauri star DG Tau.
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Analysed ESO ERIS/VLT IFU FITS data of protostellar jets, identifying emission features and characterising jet velocity layers."
+          - "Compared observational results with magnetohydrodynamic disk-wind models."
+          - "Developed Python-based workflows for processing, analysing, and visualising spectroscopic data."
+          - "Presented research findings to academic audiences."
+          - "Supervisor: Dr Rebeca García López."
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+    Teaching and Leadership:
+      - company: University College Dublin
+        position: Physics Undergraduate Tutor & Demonstrator
+        location: Dublin, Ireland
+        start_date: 2025-09
+        end_date: 2025-12
+        summary: Undergraduate teaching and laboratory support role in the School of Physics.
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - "Delivered tutorials to cohorts of approximately 50 undergraduate students."
+          - "Supervised laboratory sessions for groups of approximately 20–24 students."
+          - "Assisted students with problem-solving in core physics modules."
+          - "Completed training seminars on teaching and learning in higher education."
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - company: UCD College of Science
+        position: Science Student Leader
+        location: Dublin, Ireland
+        start_date: 2023-10
+        end_date: present
+        summary: Student leadership and outreach role representing the UCD College of Science.
+        highlights:
+          - "Represented the UCD College of Science at recruitment and outreach events."
+          - "Guided prospective students and shared my experience as a STEM student over nearly 100 hours."
+          - "Developed communication, public-speaking, and leadership skills through large and small-scale events."
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - company: University College Dublin
+        position: Peer Mentor and Orientation Guide
+        location: Dublin, Ireland
+        start_date: 2023-09
+        end_date: 2024-09
+        summary: Student mentoring and orientation support for incoming UCD students.
+        highlights:
+          - "Supported first-year students and their families during academic transition and orientation activities."
+          - "Provided guidance on academics, campus life, and university resources."
+          - "Led orientation activities, answered queries, and connected students to relevant support services."
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+      - company: Private Tutoring
+        position: Physics & Mathematics Private Tutor
+        location: Dublin, Ireland / Palma, Spain / Online
+        start_date: 2021-06
+        end_date: 2025-05
+        summary: Private tutoring in STEM subjects across British and Spanish education systems.
+        highlights:
+          - "Tutored students in physics and mathematics at Primary, Secondary, and Bachillerato levels."
+          - "Delivered one-on-one and group sessions in Spanish, Catalan, and English."
+          - "Supported exam preparation and regular academic development."
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+    Selected Projects:
+      - name: Galaxy Morphology Classification with CNNs
+        summary: Final-year project applying convolutional neural networks to galaxy morphology classification.
+        highlights:
+          - "Combines SDSS, Galaxy Zoo 2, and small ground-based telescope imaging data."
+          - "Uses Python, TensorFlow/Keras, NumPy, Pandas, AstroPy, scikit-learn, Jupyter, Git/GitHub, and Google Colab."
+          - "Focuses on image preprocessing, model training, model evaluation, confidence analysis, and domain-shift effects."
+        start_date: 2025
+        end_date: 2026
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+      - name: DG Tau Protostellar Jet Spectroscopy
+        summary: Summer research project analysing ESO ERIS/VLT IFU data of protostellar jets.
+        highlights:
+          - "Focused on emission features, velocity structure, and comparison with magnetohydrodynamic disk-wind models."
+          - "Developed Python-based workflows for spectroscopic data analysis and scientific visualisation."
+        start_date: 2025-05
+        end_date: 2025-07
+
+      - name: GRB 260310A / AT2026fgk Calar Alto Observations
+        summary: Optical follow-up observations of a gamma-ray burst counterpart candidate using the CAHA 1.23m telescope.
+        highlights:
+          - "Participated in target-of-opportunity observations and preliminary analysis."
+          - "Contributed to observations reported in NASA GCN Circular 43979."
+        start_date: 2026-03
+        end_date: 2026-03
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Programming Languages
+        level:
+        icon: fa-solid fa-code
+        keywords: "Python, C, SQL, LaTeX"
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
+      - name: Scientific Python and Machine Learning
+        level:
+        icon: fa-solid fa-laptop-code
+        keywords: "NumPy, Pandas, SciPy, Matplotlib, scikit-learn, TensorFlow, Keras, AstroPy, Astroquery, Photutils"
 
-      - name: English
-        summary: "Fluent"
+      - name: Tools and Platforms
+        level:
+        icon: fa-solid fa-screwdriver-wrench
+        keywords: "Git, GitHub, Jupyter, VS Code, Google Colab, Linux, DS9, CLEA, Overleaf, MySQL, Datawrapper, ArcGIS"
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Concepts and Methods
+        level:
+        icon: fa-solid fa-diagram-project
+        keywords: "Data preprocessing, data analysis and visualisation, supervised learning, convolutional neural networks, model training and evaluation, debugging, object-oriented programming, version control, code documentation"
+
+    Awards:
+      - title: UCD Entrance Scholar Award
+        authors:
+          - University College Dublin
+        date: 2023-03
+        awarder: University College Dublin
+        summary: Award recognising outstanding achievement in the Leaving Certificate or equivalent second-level examination.
+
+      - title: Excellence in Mentoring
+        authors:
+          - University College Dublin
+        date: 2024-03
+        awarder: University College Dublin
+        summary: Recognition for exceptional support and guidance as a peer mentor.
+
+      - title: Recognition of Student Achievement
+        authors:
+          - UCD College of Science
+        date: 2025-03
+        awarder: University College Dublin
+        summary: Recognition for leadership and personal achievements contributing to the UCD Science community.
+
+    Competitions and Events:
+      - name: PLANCKS UK & Ireland 2025 Preliminaries
+        summary: Represented UCD in an international team-based physics competition.
+        highlights:
+          - "Location: Swansea, United Kingdom."
+        start_date: 2025-02
+        end_date: 2025-02
+
+      - name: European Astronomical Society Annual Meeting
+        summary: Attended the EAS Annual Meeting online.
+        highlights:
+          - "Online attendance from 23 to 27 June 2025."
+        start_date: 2025-06
+        end_date: 2025-06
 
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
+      - name: Creating a Choropleth Map in Datawrapper
+        date: 2025
+        issuer: UCD Library — Build Your Research Skills
+        icon: fa-solid fa-map
+
+      - name: Creating a Line Chart with Datawrapper
+        date: 2025
+        issuer: UCD Library — Build Your Research Skills
+        icon: fa-solid fa-chart-line
+
+      - name: Introduction to ArcGIS Online
+        date: 2025
+        issuer: UCD Library — Build Your Research Skills
         icon: fa-solid fa-location-dot
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+    Languages:
+      - name: English
+        summary: Proficient
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - name: Spanish
+        summary: Native
 
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+      - name: Catalan
+        summary: Native
+
+    Interests:
+      - name: Scientific Computing
+        icon: fa-solid fa-laptop
+        keywords: "Machine learning, data analysis, scientific Python, computational science, software-oriented research"
+
+      - name: Astronomy and Space Science
+        icon: fa-solid fa-star
+        keywords: "Galaxy morphology, observational astronomy, spectroscopy, transient follow-up, astrophysical data analysis"
 
     References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: References available upon request
+        icon: fa-solid fa-envelope
+        reference: Academic and research references available upon request.
