@@ -1,47 +1,47 @@
 cv:
-  name: Javier Roca García-Valiño
-  label: Final-year Physics with Astronomy student | Scientific Computing & ML
-  email: javi5rgv@gmail.com
-  location: Dublin, Ireland
+  name: "Javier Roca García-Valiño"
+  label: "Final-year Physics with Astronomy student | Scientific Computing & ML"
+  email: "javi5rgv@gmail.com"
+  location: "Dublin, Ireland"
   image: ""
-  summary: Final-year BSc Physics with Astronomy & Space Science student at University College Dublin, with a structured elective in Programming. Interested in machine learning, scientific computing, astronomical data analysis, and software-oriented research.
+  summary: "Final-year BSc Physics with Astronomy & Space Science student at University College Dublin, with a structured elective in Programming. Interested in machine learning, scientific computing, astronomical data analysis, and software-oriented research."
 
   social_networks:
-    - network: GitHub
-      username: javirgv
-    - network: LinkedIn
-      username: javierrocagarcia-valino
+    - network: "GitHub"
+      username: "javirgv"
+    - network: "LinkedIn"
+      username: "javierrocagarcia-valino"
 
   address:
     street:
-    city: Dublin
+    city: "Dublin"
     region:
     postalCode:
-    countryCode: IE
+    countryCode: "IE"
 
   sections:
     Education:
-      - institution: University College Dublin
-        location: Dublin, Ireland
-        url: https://www.ucd.ie/
-        area: Physics with Astronomy & Space Science
-        studyType: BSc
-        start_date: 2022-09
-        end_date: 2026-05
-        score: Prospective First Class Honours
+      - institution: "University College Dublin"
+        location: "Dublin, Ireland"
+        url: "https://www.ucd.ie/"
+        area: "Physics with Astronomy & Space Science"
+        studyType: "BSc"
+        start_date: "2022-09"
+        end_date: "2026-05"
+        score: "Prospective First Class Honours"
         courses: "Structured Elective in Programming"
         highlights:
           - "Final Year Project: Galaxy morphological classification on small ground-based telescope data using machine learning."
           - "Relevant computing modules: Maths of Machine Learning, Data Structures & Algorithms, Computational Science, Computation for Scientists, Databases and Information Systems, Introduction to Programming I & II."
           - "Relevant astronomy and physics modules: Stellar Astrophysics & Astronomical Techniques, Galaxies, Observational Cosmology & the Interstellar Medium, Theoretical Astrophysics, Physics with Astronomy and Space Science Laboratory, Astronomy Field Trip."
 
-    Research Experience:
-      - company: University College Dublin
-        position: Final Year Project — Galaxy Morphological Classification with Neural Networks
-        location: Dublin, Ireland
-        start_date: 2025
-        end_date: present
-        summary: Final-year research project combining astronomical image data, supervised machine learning, and scientific Python workflows.
+    Experience:
+      - company: "University College Dublin"
+        position: "Final Year Project — Galaxy Morphological Classification with Neural Networks"
+        location: "Dublin, Ireland"
+        start_date: "2025"
+        end_date: "present"
+        summary: "Final-year research project combining astronomical image data, supervised machine learning, and scientific Python workflows."
         highlights:
           - "Developing supervised machine learning methods to classify galaxy morphologies from small ground-based telescope imaging data."
           - "Training and evaluating convolutional neural networks using SDSS and Galaxy Zoo 2 data."
@@ -49,12 +49,12 @@ cv:
           - "Applying data preprocessing, feature extraction, model evaluation, confidence analysis, and reproducible project organisation."
           - "Supervisor: Dr Antonio Martin-Carrillo."
 
-      - company: University College Dublin / Calar Alto Observatory
-        position: Observational Campaign — GRB 260310A / AT2026fgk
-        location: Calar Alto Observatory, Spain
-        start_date: 2026-03
-        end_date: 2026-03
-        summary: Target-of-opportunity optical follow-up observations of a gamma-ray burst counterpart candidate using the CAHA 1.23m telescope.
+      - company: "University College Dublin / Calar Alto Observatory"
+        position: "Observational Campaign — GRB 260310A / AT2026fgk"
+        location: "Calar Alto Observatory, Spain"
+        start_date: "2026-03"
+        end_date: "2026-03"
+        summary: "Target-of-opportunity optical follow-up observations of a gamma-ray burst counterpart candidate using the CAHA 1.23m telescope."
         highlights:
           - "Contributed to optical observations of GRB 260310A / AT2026fgk using the CAHA 1.23m telescope."
           - "Participated in data acquisition and preliminary analysis during a rapid-response observing campaign."
@@ -63,12 +63,12 @@ cv:
           - "Supervisor: Dr Antonio Martin-Carrillo."
           - "Related link: https://gcn.nasa.gov/circulars/43979"
 
-      - company: UCD Star Formation Research Group
-        position: Summer Research Student — Protostellar Jets of DG Tau
-        location: Dublin, Ireland
-        start_date: 2025-05
-        end_date: 2025-07
-        summary: Summer research project analysing ESO ERIS/VLT integral-field spectroscopic data of protostellar jets from the T Tauri star DG Tau.
+      - company: "UCD Star Formation Research Group"
+        position: "Summer Research Student — Protostellar Jets of DG Tau"
+        location: "Dublin, Ireland"
+        start_date: "2025-05"
+        end_date: "2025-07"
+        summary: "Summer research project analysing ESO ERIS/VLT integral-field spectroscopic data of protostellar jets from the T Tauri star DG Tau."
         highlights:
           - "Analysed ESO ERIS/VLT IFU FITS data of protostellar jets, identifying emission features and characterising jet velocity layers."
           - "Compared observational results with magnetohydrodynamic disk-wind models."
@@ -76,172 +76,170 @@ cv:
           - "Presented research findings to academic audiences."
           - "Supervisor: Dr Rebeca García López."
 
-    Teaching and Leadership:
-      - company: University College Dublin
-        position: Physics Undergraduate Tutor & Demonstrator
-        location: Dublin, Ireland
-        start_date: 2025-09
-        end_date: 2025-12
-        summary: Undergraduate teaching and laboratory support role in the School of Physics.
+      - company: "University College Dublin"
+        position: "Physics Undergraduate Tutor & Demonstrator"
+        location: "Dublin, Ireland"
+        start_date: "2025-09"
+        end_date: "2025-12"
+        summary: "Undergraduate teaching and laboratory support role in the School of Physics."
         highlights:
           - "Delivered tutorials to cohorts of approximately 50 undergraduate students."
           - "Supervised laboratory sessions for groups of approximately 20–24 students."
           - "Assisted students with problem-solving in core physics modules."
           - "Completed training seminars on teaching and learning in higher education."
 
-      - company: UCD College of Science
-        position: Science Student Leader
-        location: Dublin, Ireland
-        start_date: 2023-10
-        end_date: present
-        summary: Student leadership and outreach role representing the UCD College of Science.
+      - company: "UCD College of Science"
+        position: "Science Student Leader"
+        location: "Dublin, Ireland"
+        start_date: "2023-10"
+        end_date: "present"
+        summary: "Student leadership and outreach role representing the UCD College of Science."
         highlights:
           - "Represented the UCD College of Science at recruitment and outreach events."
           - "Guided prospective students and shared my experience as a STEM student over nearly 100 hours."
           - "Developed communication, public-speaking, and leadership skills through large and small-scale events."
 
-      - company: University College Dublin
-        position: Peer Mentor and Orientation Guide
-        location: Dublin, Ireland
-        start_date: 2023-09
-        end_date: 2024-09
-        summary: Student mentoring and orientation support for incoming UCD students.
+      - company: "University College Dublin"
+        position: "Peer Mentor and Orientation Guide"
+        location: "Dublin, Ireland"
+        start_date: "2023-09"
+        end_date: "2024-09"
+        summary: "Student mentoring and orientation support for incoming UCD students."
         highlights:
           - "Supported first-year students and their families during academic transition and orientation activities."
           - "Provided guidance on academics, campus life, and university resources."
           - "Led orientation activities, answered queries, and connected students to relevant support services."
 
-      - company: Private Tutoring
-        position: Physics & Mathematics Private Tutor
-        location: Dublin, Ireland / Palma, Spain / Online
-        start_date: 2021-06
-        end_date: 2025-05
-        summary: Private tutoring in STEM subjects across British and Spanish education systems.
+      - company: "Private Tutoring"
+        position: "Physics & Mathematics Private Tutor"
+        location: "Dublin, Ireland / Palma, Spain / Online"
+        start_date: "2021-06"
+        end_date: "2025-05"
+        summary: "Private tutoring in STEM subjects across British and Spanish education systems."
         highlights:
           - "Tutored students in physics and mathematics at Primary, Secondary, and Bachillerato levels."
           - "Delivered one-on-one and group sessions in Spanish, Catalan, and English."
           - "Supported exam preparation and regular academic development."
 
-    Selected Projects:
-      - name: Galaxy Morphology Classification with CNNs
-        summary: Final-year project applying convolutional neural networks to galaxy morphology classification.
+    Projects:
+      - name: "Galaxy Morphology Classification with CNNs"
+        summary: "Final-year project applying convolutional neural networks to galaxy morphology classification."
         highlights:
           - "Combines SDSS, Galaxy Zoo 2, and small ground-based telescope imaging data."
           - "Uses Python, TensorFlow/Keras, NumPy, Pandas, AstroPy, scikit-learn, Jupyter, Git/GitHub, and Google Colab."
           - "Focuses on image preprocessing, model training, model evaluation, confidence analysis, and domain-shift effects."
-        start_date: 2025
-        end_date: 2026
+        start_date: "2025"
+        end_date: "2026"
 
-      - name: DG Tau Protostellar Jet Spectroscopy
-        summary: Summer research project analysing ESO ERIS/VLT IFU data of protostellar jets.
+      - name: "DG Tau Protostellar Jet Spectroscopy"
+        summary: "Summer research project analysing ESO ERIS/VLT IFU data of protostellar jets."
         highlights:
           - "Focused on emission features, velocity structure, and comparison with magnetohydrodynamic disk-wind models."
           - "Developed Python-based workflows for spectroscopic data analysis and scientific visualisation."
-        start_date: 2025-05
-        end_date: 2025-07
+        start_date: "2025-05"
+        end_date: "2025-07"
 
-      - name: GRB 260310A / AT2026fgk Calar Alto Observations
-        summary: Optical follow-up observations of a gamma-ray burst counterpart candidate using the CAHA 1.23m telescope.
+      - name: "GRB 260310A / AT2026fgk Calar Alto Observations"
+        summary: "Optical follow-up observations of a gamma-ray burst counterpart candidate using the CAHA 1.23m telescope."
         highlights:
           - "Participated in target-of-opportunity observations and preliminary analysis."
           - "Contributed to observations reported in NASA GCN Circular 43979."
-        start_date: 2026-03
-        end_date: 2026-03
+        start_date: "2026-03"
+        end_date: "2026-03"
+
+      - name: "PLANCKS UK & Ireland 2025 Preliminaries"
+        summary: "Represented UCD in an international team-based physics competition."
+        highlights:
+          - "Location: Swansea, United Kingdom."
+        start_date: "2025-02"
+        end_date: "2025-02"
+
+      - name: "European Astronomical Society Annual Meeting"
+        summary: "Attended the EAS Annual Meeting online."
+        highlights:
+          - "Online attendance from 23 to 27 June 2025."
+        start_date: "2025-06"
+        end_date: "2025-06"
 
     Skills:
-      - name: Programming Languages
+      - name: "Programming Languages"
         level:
-        icon: fa-solid fa-code
+        icon: "fa-solid fa-code"
         keywords: "Python, C, SQL, LaTeX"
 
-      - name: Scientific Python and Machine Learning
+      - name: "Scientific Python and Machine Learning"
         level:
-        icon: fa-solid fa-laptop-code
+        icon: "fa-solid fa-laptop-code"
         keywords: "NumPy, Pandas, SciPy, Matplotlib, scikit-learn, TensorFlow, Keras, AstroPy, Astroquery, Photutils"
 
-      - name: Tools and Platforms
+      - name: "Tools and Platforms"
         level:
-        icon: fa-solid fa-screwdriver-wrench
+        icon: "fa-solid fa-screwdriver-wrench"
         keywords: "Git, GitHub, Jupyter, VS Code, Google Colab, Linux, DS9, CLEA, Overleaf, MySQL, Datawrapper, ArcGIS"
 
-      - name: Concepts and Methods
+      - name: "Concepts and Methods"
         level:
-        icon: fa-solid fa-diagram-project
+        icon: "fa-solid fa-diagram-project"
         keywords: "Data preprocessing, data analysis and visualisation, supervised learning, convolutional neural networks, model training and evaluation, debugging, object-oriented programming, version control, code documentation"
 
     Awards:
-      - title: UCD Entrance Scholar Award
+      - title: "UCD Entrance Scholar Award"
         authors:
-          - University College Dublin
-        date: 2023-03
-        awarder: University College Dublin
-        summary: Award recognising outstanding achievement in the Leaving Certificate or equivalent second-level examination.
+          - "University College Dublin"
+        date: "2023-03"
+        awarder: "University College Dublin"
+        summary: "Award recognising outstanding achievement in the Leaving Certificate or equivalent second-level examination."
 
-      - title: Excellence in Mentoring
+      - title: "Excellence in Mentoring"
         authors:
-          - University College Dublin
-        date: 2024-03
-        awarder: University College Dublin
-        summary: Recognition for exceptional support and guidance as a peer mentor.
+          - "University College Dublin"
+        date: "2024-03"
+        awarder: "University College Dublin"
+        summary: "Recognition for exceptional support and guidance as a peer mentor."
 
-      - title: Recognition of Student Achievement
+      - title: "Recognition of Student Achievement"
         authors:
-          - UCD College of Science
-        date: 2025-03
-        awarder: University College Dublin
-        summary: Recognition for leadership and personal achievements contributing to the UCD Science community.
-
-    Competitions and Events:
-      - name: PLANCKS UK & Ireland 2025 Preliminaries
-        summary: Represented UCD in an international team-based physics competition.
-        highlights:
-          - "Location: Swansea, United Kingdom."
-        start_date: 2025-02
-        end_date: 2025-02
-
-      - name: European Astronomical Society Annual Meeting
-        summary: Attended the EAS Annual Meeting online.
-        highlights:
-          - "Online attendance from 23 to 27 June 2025."
-        start_date: 2025-06
-        end_date: 2025-06
+          - "UCD College of Science"
+        date: "2025-03"
+        awarder: "University College Dublin"
+        summary: "Recognition for leadership and personal achievements contributing to the UCD Science community."
 
     Certificates:
-      - name: Creating a Choropleth Map in Datawrapper
-        date: 2025
-        issuer: UCD Library — Build Your Research Skills
-        icon: fa-solid fa-map
+      - name: "Creating a Choropleth Map in Datawrapper"
+        date: "2025"
+        issuer: "UCD Library — Build Your Research Skills"
+        icon: "fa-solid fa-map"
 
-      - name: Creating a Line Chart with Datawrapper
-        date: 2025
-        issuer: UCD Library — Build Your Research Skills
-        icon: fa-solid fa-chart-line
+      - name: "Creating a Line Chart with Datawrapper"
+        date: "2025"
+        issuer: "UCD Library — Build Your Research Skills"
+        icon: "fa-solid fa-chart-line"
 
-      - name: Introduction to ArcGIS Online
-        date: 2025
-        issuer: UCD Library — Build Your Research Skills
-        icon: fa-solid fa-location-dot
+      - name: "Introduction to ArcGIS Online"
+        date: "2025"
+        issuer: "UCD Library — Build Your Research Skills"
+        icon: "fa-solid fa-location-dot"
 
     Languages:
-      - name: English
-        summary: Proficient
+      - name: "English"
+        summary: "Proficient"
 
-      - name: Spanish
-        summary: Native
+      - name: "Spanish"
+        summary: "Native"
 
-      - name: Catalan
-        summary: Native
+      - name: "Catalan"
+        summary: "Native"
 
     Interests:
-      - name: Scientific Computing
-        icon: fa-solid fa-laptop
+      - name: "Scientific Computing"
+        icon: "fa-solid fa-laptop"
         keywords: "Machine learning, data analysis, scientific Python, computational science, software-oriented research"
 
-      - name: Astronomy and Space Science
-        icon: fa-solid fa-star
+      - name: "Astronomy and Space Science"
+        icon: "fa-solid fa-star"
         keywords: "Galaxy morphology, observational astronomy, spectroscopy, transient follow-up, astrophysical data analysis"
 
     References:
-      - name: References available upon request
-        icon: fa-solid fa-envelope
-        reference: Academic and research references available upon request.
+      - name: "References available upon request"
+        icon: "fa-solid fa-envelope"
+        reference: "Academic and research references available upon request."
