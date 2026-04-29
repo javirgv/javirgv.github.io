@@ -4,7 +4,7 @@ title: "DG Tau Protostellar Jet Spectroscopy"
 description: "Summer research project analysing ESO ERIS/VLT IFU spectroscopic data of protostellar jets from the T Tauri star DG Tau."
 img:
 importance: 3
-category: work
+category: research
 related_publications: false
 ---
 
