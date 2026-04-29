@@ -451,6 +451,11 @@ ninja.data = [{
           description: "Final-year project applying convolutional neural networks to galaxy morphology classification using SDSS, Galaxy Zoo 2, and small ground-based telescope data.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/galaxy-morphology-cnn/";
+            },},{id: "projects-grb-260310a-at2026fgk-calar-alto-observations",
+          title: 'GRB 260310A / AT2026fgk Calar Alto Observations',
+          description: "Optical follow-up observations of a gamma-ray burst counterpart candidate using the CAHA 1.23m telescope.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/grb-260310a-calar-alto/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
