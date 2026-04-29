@@ -4,7 +4,7 @@ title: "GRB 260310A / AT2026fgk Calar Alto Observations"
 description: "Optical follow-up observations of a gamma-ray burst counterpart candidate using the CAHA 1.23m telescope."
 img:
 importance: 2
-category: "research astronomy observations"
+category: work
 related_publications: false
 ---
 
