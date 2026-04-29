@@ -19,8 +19,8 @@ cv:
     postalCode:
     countryCode: "IE"
 
-  sections:
-    Education:
+    sections:
+    education:
       - institution: "University College Dublin"
         location: "Dublin, Ireland"
         url: "https://www.ucd.ie/"
@@ -35,7 +35,7 @@ cv:
           - "Relevant computing modules: Maths of Machine Learning, Data Structures & Algorithms, Computational Science, Computation for Scientists, Databases and Information Systems, Introduction to Programming I & II."
           - "Relevant astronomy and physics modules: Stellar Astrophysics & Astronomical Techniques, Galaxies, Observational Cosmology & the Interstellar Medium, Theoretical Astrophysics, Physics with Astronomy and Space Science Laboratory, Astronomy Field Trip."
 
-    Experience:
+    research_experience:
       - company: "University College Dublin"
         position: "Final Year Project — Galaxy Morphological Classification with Neural Networks"
         location: "Dublin, Ireland"
@@ -76,6 +76,7 @@ cv:
           - "Presented research findings to academic audiences."
           - "Supervisor: Dr Rebeca García López."
 
+    teaching_and_leadership:
       - company: "University College Dublin"
         position: "Physics Undergraduate Tutor & Demonstrator"
         location: "Dublin, Ireland"
@@ -121,7 +122,7 @@ cv:
           - "Delivered one-on-one and group sessions in Spanish, Catalan, and English."
           - "Supported exam preparation and regular academic development."
 
-    Projects:
+    selected_projects:
       - name: "Galaxy Morphology Classification with CNNs"
         summary: "Final-year project applying convolutional neural networks to galaxy morphology classification."
         highlights:
@@ -147,21 +148,7 @@ cv:
         start_date: "2026-03"
         end_date: "2026-03"
 
-      - name: "PLANCKS UK & Ireland 2025 Preliminaries"
-        summary: "Represented UCD in an international team-based physics competition."
-        highlights:
-          - "Location: Swansea, United Kingdom."
-        start_date: "2025-02"
-        end_date: "2025-02"
-
-      - name: "European Astronomical Society Annual Meeting"
-        summary: "Attended the EAS Annual Meeting online."
-        highlights:
-          - "Online attendance from 23 to 27 June 2025."
-        start_date: "2025-06"
-        end_date: "2025-06"
-
-    Skills:
+    skills:
       - name: "Programming Languages"
         level:
         icon: "fa-solid fa-code"
@@ -182,7 +169,7 @@ cv:
         icon: "fa-solid fa-diagram-project"
         keywords: "Data preprocessing, data analysis and visualisation, supervised learning, convolutional neural networks, model training and evaluation, debugging, object-oriented programming, version control, code documentation"
 
-    Awards:
+    awards:
       - title: "UCD Entrance Scholar Award"
         authors:
           - "University College Dublin"
@@ -204,7 +191,22 @@ cv:
         awarder: "University College Dublin"
         summary: "Recognition for leadership and personal achievements contributing to the UCD Science community."
 
-    Certificates:
+    competitions_and_events:
+      - name: "PLANCKS UK & Ireland 2025 Preliminaries"
+        summary: "Represented UCD in an international team-based physics competition."
+        highlights:
+          - "Location: Swansea, United Kingdom."
+        start_date: "2025-02"
+        end_date: "2025-02"
+
+      - name: "European Astronomical Society Annual Meeting"
+        summary: "Attended the EAS Annual Meeting online."
+        highlights:
+          - "Online attendance from 23 to 27 June 2025."
+        start_date: "2025-06"
+        end_date: "2025-06"
+
+    certificates:
       - name: "Creating a Choropleth Map in Datawrapper"
         date: "2025"
         issuer: "UCD Library — Build Your Research Skills"
@@ -220,7 +222,7 @@ cv:
         issuer: "UCD Library — Build Your Research Skills"
         icon: "fa-solid fa-location-dot"
 
-    Languages:
+    languages:
       - name: "English"
         summary: "Proficient"
 
@@ -230,7 +232,7 @@ cv:
       - name: "Catalan"
         summary: "Native"
 
-    Interests:
+    interests:
       - name: "Scientific Computing"
         icon: "fa-solid fa-laptop"
         keywords: "Machine learning, data analysis, scientific Python, computational science, software-oriented research"
@@ -239,7 +241,7 @@ cv:
         icon: "fa-solid fa-star"
         keywords: "Galaxy morphology, observational astronomy, spectroscopy, transient follow-up, astrophysical data analysis"
 
-    References:
+    references:
       - name: "References available upon request"
         icon: "fa-solid fa-envelope"
         reference: "Academic and research references available upon request."
