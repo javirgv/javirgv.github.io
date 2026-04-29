@@ -6,7 +6,7 @@ subtitle: "Final-year BSc Physics with Astronomy & Space Science student at Univ
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Javi_prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>University College Dublin</p>
